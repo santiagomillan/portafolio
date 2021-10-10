@@ -158,7 +158,7 @@ nav ul li{
   z-index: 1;
 }
 
-@media (min-width: 768px){
+@media (max-width: 768px){
   .particles-canvas{
     display: none;
   }
